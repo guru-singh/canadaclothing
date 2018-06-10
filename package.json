@@ -1,0 +1,26 @@
+{
+  "name": "canadaclothingco.com",
+  "version": "1.0.0",
+  "description": "POC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guru-singh/canadaclothing.git"
+  },
+  "keywords": [
+    "poc",
+    "javascript",
+    "reactjs",
+    "fashion",
+    "brands"
+  ],
+  "author": "Guru Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guru-singh/canadaclothing/issues"
+  },
+  "homepage": "https://github.com/guru-singh/canadaclothing#readme"
+}
